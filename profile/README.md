@@ -2,14 +2,16 @@
 
 Cryptographic components for Kotlin Multiplatform.
 
-Founded in February 2023 by [Matthew Nelson][url-05nelsonm] who was tired 
-of importing massive crypto libraries for 2 or 3 functions. So, with a focus 
-on modularity, security and well constructed APIs, a long-term play was made 
-with the creation of `KotlinCrypto`.
+Recognizing a need for native language cryptography for multiplatform, a 
+long-term play was made with the creation of `KotlinCrypto` in February 
+2023 by [Matthew Nelson][url-05nelsonm].
 
-Help in building what will hopefully become the go-to place for Kotlin 
-Multiplatform devs and their crypto needs is much welcomed! Drop a line in 
-[Discussions][url-discussions]!
+With a focus on modularity (import what you need, not every cryptographic 
+function under the sun), security and well constructed APIs, this organization 
+hopes to become the go-to place for Kotlin Multiplatform devs' cryptography 
+needs.
+
+Drop a line in [Discussions][url-discussions]!
 
 [url-05nelsonm]: https://github.com/05nelsonm
 [url-discussions]: https://github.com/orgs/KotlinCrypto/discussions

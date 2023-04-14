@@ -8,6 +8,8 @@ on modularity, security and well constructed APIs, a long-term play was made
 with the creation of `KotlinCrypto`.
 
 Help in building what will hopefully become the go-to place for Kotlin 
-Multiplatform devs and their crypto needs is much welcomed; drop a line!
+Multiplatform devs and their crypto needs is much welcomed! Drop a line in 
+[Discussions][url-discussions]!
 
 [url-05nelsonm]: https://github.com/05nelsonm
+[url-discussions]: https://github.com/orgs/KotlinCrypto/discussions
